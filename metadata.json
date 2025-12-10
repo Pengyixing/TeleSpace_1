@@ -1,0 +1,5 @@
+{
+  "name": "TeleSpace Control Hub",
+  "description": "Centralized control dashboard for TeleSpace mac-side operations, managing external streams, MuJoCo simulation environments, and VisionPro connections.",
+  "requestFramePermissions": []
+}
